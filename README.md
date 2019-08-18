@@ -1,23 +1,26 @@
 # chapter03.nuxt-tutorial
 
-> Nuxt.js project
+## Overview
 
-## Build Setup
+Nuxt.js tutorial project.
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+Write code based on the book 'Nuxt.js ビギナーズガイド' in this project.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+On commit message, 'pXX hogehoge' mean 'To implement hogehoge on p. XX of the book.'
 
-# build for production and launch server
-$ npm run build
-$ npm start
+## How to use
 
-# generate static project
-$ npm run generate
-```
+### Clone Repository
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+    $ git clone https://github.com/basd4g/chapter03.nuxt-tutorial.git
+    $ cd chapter03.nuxt-tutorial/
 
+### Build and Run
+
+    $ yarn
+    $ yarn run dev
+    # And open 'http://localhost:3000/' on web browswer.
+
+## Reference
+
+- [Nuxt.js ビギナーズガイド](https://nuxt-beginners-guide.elevenback.jp)
