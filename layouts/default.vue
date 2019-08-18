@@ -1,6 +1,6 @@
 <template>
   <div>
-    <span>defauld layout</span>
+    <span>default layout</span>
     <AppNavigation />
     <hr>
     <footer>
