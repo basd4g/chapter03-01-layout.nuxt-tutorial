@@ -1,10 +1,10 @@
-# chapter03.nuxt-tutorial
+# chapter03-01-layout.nuxt-tutorial
 
 ## Overview
 
 Nuxt.js tutorial project.
 
-Write code based on the book 'Nuxt.js ビギナーズガイド' in this project.
+Write code based on the book 'Nuxt.js ビギナーズガイド' pp.62-67 in this project.
 
 On commit message, 'pXX hogehoge' mean 'To implement hogehoge on p. XX of the book.'
 
@@ -12,8 +12,8 @@ On commit message, 'pXX hogehoge' mean 'To implement hogehoge on p. XX of the bo
 
 ### Clone Repository
 
-    $ git clone https://github.com/basd4g/chapter03.nuxt-tutorial.git
-    $ cd chapter03.nuxt-tutorial/
+    $ git clone https://github.com/basd4g/chapter03-01-layout.nuxt-tutorial.git
+    $ cd chapter03-01-layout.nuxt-tutorial/
 
 ### Build and Run
 
